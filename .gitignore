@@ -34,7 +34,8 @@ env/
 venv/
 
 # MacOS
-.DS_Store
+*.DS_Store/
+/.DS_Store
 
 # Dask
 dask-worker-space/
